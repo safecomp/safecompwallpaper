@@ -3,4 +3,4 @@ safecompwallpaper
 
 a simple android live wallpaper
 
-read my tutorial about adrid live wallpaper (currently only persian tutorial is avaiable): http://safecomp.ir/fa/node/52
+read my tutorial about android live wallpaper (currently only persian tutorial is avaiable): http://safecomp.ir/fa/node/52
