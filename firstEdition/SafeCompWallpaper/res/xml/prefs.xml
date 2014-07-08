@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+ <PreferenceCategory
+   android:summary="SafeComp Wallpaper settings"
+   android:title="Settings" >
+  <CheckBoxPreference
+     android:key="TouchEnable"
+     android:summary="Enable/Disable"
+     android:title="Enable Touch" />
+ 
+  <ListPreference
+     android:entries="@array/shapesName"
+     android:entryValues="@array/shapesName"
+     android:key="Shape"
+     android:summary="Available Shapes"
+     android:title="Shape Settings" />
+ </PreferenceCategory>
+</PreferenceScreen>
